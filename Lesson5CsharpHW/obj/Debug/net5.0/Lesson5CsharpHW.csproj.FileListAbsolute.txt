@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\bin\Debug\net5.0\Lesson5CsharpHW.exe
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\bin\Debug\net5.0\Lesson5CsharpHW.deps.json
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\bin\Debug\net5.0\Lesson5CsharpHW.runtimeconfig.json
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\bin\Debug\net5.0\Lesson5CsharpHW.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\bin\Debug\net5.0\Lesson5CsharpHW.dll
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\bin\Debug\net5.0\ref\Lesson5CsharpHW.dll
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\bin\Debug\net5.0\Lesson5CsharpHW.pdb
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\Lesson5CsharpHW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\Lesson5CsharpHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\Lesson5CsharpHW.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\Lesson5CsharpHW.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\Lesson5CsharpHW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\Lesson5CsharpHW.dll
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\ref\Lesson5CsharpHW.dll
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\Lesson5CsharpHW.pdb
+C:\Users\User\Desktop\C#\LessonsSources\Lesson5CsharpHW\Lesson5CsharpHW\obj\Debug\net5.0\Lesson5CsharpHW.genruntimeconfig.cache
